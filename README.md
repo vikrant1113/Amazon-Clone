@@ -24,13 +24,6 @@ Full Stack Amazon Clone along with Admin Panel
     - Viewing Total Earnings
     - Viewing Category Based Earnings (on Graph)
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/O3nmP-lZAdg) 
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-amazon-clone-tutorial/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
-
 
 ## Running Locally
 After cloning this repository, migrate to ```flutter-amazon-clone-tutorial``` folder. Then, follow the following steps:
@@ -63,6 +56,3 @@ Then run the following commands to run your app:
 
 **Client**: Flutter, Provider
     
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com# Amazon-Clone
